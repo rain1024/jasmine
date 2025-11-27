@@ -1,0 +1,5 @@
+# Jasmine 
+
+Agentic Coding 
+
+> Jasmine: What if I known Industry Standard Practices, can I code better than human?
